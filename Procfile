@@ -1,2 +1,1 @@
-web: gunicorn app:app
-            #filename #appname
+web:gunicorn app:app
